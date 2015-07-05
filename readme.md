@@ -10,7 +10,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 #### Guidelines
 
-- Ensure your question haven't already been answered.
+- Ensure your question hasn't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
